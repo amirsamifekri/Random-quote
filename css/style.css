@@ -1,0 +1,28 @@
+h1{
+font-weight: 900;
+margin-bottom: 1rem;
+font-size: 5rem;
+font-family: Impact;
+margin: 2rem 0 ;
+}
+
+
+button{
+    padding: 1.5rem 5rem;
+    margin-top: 2rem;
+    background-color: blue;
+    color: white;
+}
+
+button:hover{
+    background-color: green;
+}
+
+
+.myFigure{
+    text-align: center;
+    display: block;
+    margin-top: 2rem;
+    border: none;
+    font-size: 2rem;
+}
